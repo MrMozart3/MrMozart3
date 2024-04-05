@@ -1,7 +1,7 @@
 # 🚀 About Me
 Currently studying Computer Science at Warsaw University of Technology (Politechnika Warszawska)
 
-# 🛠 Skills
+# 🛠 Currently Using
 
 <div>
     <img style="margin-right: 10px;" height="40" src="java.webp">
