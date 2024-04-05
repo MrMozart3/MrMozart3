@@ -12,4 +12,4 @@ Currently studying Computer Science at Warsaw University of Technology (Politech
 <br>
 
 # 🚩 Projects
-- I’m currently working on [asd](sad)
+- 🔭 I’m currently working on [awd](SudokuSolver)
