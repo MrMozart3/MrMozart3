@@ -13,7 +13,7 @@ Currently studying Computer Science at Warsaw University of Technology (Politech
 
 <div>
     <div>xd</div>
-    <img height="40" src="java.webp>
+    <img height="40" src="java.webp">
 </div>
            
 # 🚩 Projects
