@@ -13,4 +13,4 @@ Currently studying Computer Science at Warsaw University of Technology (Politech
 
            
 # 🚩 Projects
-## [SudokuSolver](https://github.com/MrMozart3/SudokuSolver) <img src="java.webp" alt="java" height="60" width="60">
+## [SudokuSolver](https://github.com/MrMozart3/SudokuSolver) <img src="java.webp" alt="java" height="20" width="20">
