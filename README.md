@@ -11,10 +11,9 @@ Currently studying Computer Science at Warsaw University of Technology (Politech
 </div>
 <br>
 
-<div style="display: flex;">
-    <div>xd</div>
-    <img height="40" src="java.webp">
-</div>
+<div style="display: flex; align-items: center;">
+<div style="font-size: 18px; font-weight: bold; margin-right: 10px;">Text here</div>
+<img style="width: 100px; height: auto;" src="java.webp" alt="Example Image" /></div>
            
 # 🚩 Projects
 ## [SudokuSolver](https://github.com/MrMozart3/SudokuSolver)
