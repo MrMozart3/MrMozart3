@@ -12,4 +12,4 @@ Currently studying Computer Science at Warsaw University of Technology (Politech
 <br>
 
 # 🚩 Projects
-- 🔭 I’m currently working on [awd](https://github.com/MrMozart3/SudokuSolver)
+## [SudokuSolver](https://github.com/MrMozart3/SudokuSolver)
