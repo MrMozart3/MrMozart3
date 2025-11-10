@@ -1,14 +1,4 @@
-# 🛠 Currently Using
-
-<div>
-    <img style="margin-right: 10px;" height="40" src="java.webp">
-    <img style="margin-right: 10px;" height="40" src="cpp.png">
-    <img style="margin-right: 10px;" height="40" src="c.png">
-    <img height="40" src="mysql.png">
-</div>
-<br>
-
-           
+          
 # 🚩 Projects
 ## [MazeSolver (RAM usage limited to 100kB)](https://github.com/MrMozart3/MazeSolver-C-MemoryLimited/) <img src="c.png" alt="java" height="25" width="25">
 
